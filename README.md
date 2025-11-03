@@ -26,7 +26,7 @@ Root Mean Squared Error	2.57
 Cross-validation R²	0.8524
 
 Github Repo :-
-Live Demo = 
+Live Demo:- https://boston-house-price-prediction-8z3cmjtdxc2vcc2vhlfajf.streamlit.app/
 
 pip install -r requirements.txt
 👨‍💻 Author
